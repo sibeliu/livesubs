@@ -1,0 +1,13 @@
+# Python env and caches
+.venv/
+__pycache__/
+
+# Build output
+/LiveSubs
+
+# Models (downloaded on first run) and local test audio
+models/
+testdata/
+GigaAM/
+
+.DS_Store
